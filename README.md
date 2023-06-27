@@ -11,7 +11,9 @@ The Medical Store Management System is a web application designed to streamline 
 - Reports and Analytics: Generate reports on inventory, sales, and other key metrics.
 
 ## Live Preview
-
+Admin credentials:
+-email: admin@gmail.com
+-password: admin123
 [CLICK HERE FOR LIVE PREVIEW](https://medical-store.omwise.xyz/login).
 
 ## Technologies Used
