@@ -43,10 +43,5 @@ Contributions to the Medical Store Management System are welcome! If you encount
 
 ## License
 
-The Medical Store Management System is open-source software licensed under the [MIT license](LICENSE.md).
+The Medical Store Management System is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
