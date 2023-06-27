@@ -12,7 +12,7 @@ The Medical Store Management System is a web application designed to streamline 
 
 ## Live Preview
 
-[CLICK THIS LINK FOR LIVE PREVIEW]([<insert live preview link>](https://medical-store.omwise.xyz/login)).
+[CLICK HERE FOR LIVE PREVIEW](https://medical-store.omwise.xyz/login).
 
 ## Technologies Used
 
