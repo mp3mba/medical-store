@@ -30,7 +30,7 @@ The Medical Store Management System is built using the following technologies:
 
 To set up the Medical Store Management System locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/mp3mba/medical-store/tree/master`
 2. Navigate to the project directory: `cd medical-store-management-system`
 3. Install the dependencies: `composer install`
 4. Create a copy of the .env.example file and rename it to .env
